@@ -1,0 +1,22 @@
+header {
+    display: flex;
+    justify-content: flex-end; /* Align items to the right */
+    padding: 20px; /* Add some padding for spacing */
+  }
+  
+  .navigation ul {
+    list-style: none;
+    display: flex;
+  }
+  
+  .navigation ul li {
+    margin-right: 20px; /* Add margin between nav items */
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    color: #333; /* Adjust link color */
+  }
+  
+  /* Additional styles as needed */
+  
